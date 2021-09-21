@@ -1,0 +1,35 @@
+*{margin: 0;
+padding: 0;
+}
+section{
+    width: 70%;
+    height: auto;
+    margin: auto;
+    background-color: white;
+}
+section h1{
+    text-align: center;
+}
+header{
+	background-color: white;
+  	position: sticky;
+ 	top: 0;
+    height: 7%;
+}
+nav ul a li{
+    display: inline-block;
+    margin-top: 15 px;
+    margin-right: 10px;
+	margin-bottom: 15px;
+    left: 85%;
+	position: relative;
+	top: -30px;
+	
+}
+footer{
+	background-color: black;
+	height: 30px;
+	color: white;
+	text-align: center;
+ 	bottom:  0;
+}
